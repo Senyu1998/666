@@ -17,8 +17,8 @@
 			<false/>
 			<key>IsHotspot</key>
 			<false/>
-			<key>6mr5xv2a</key>
-			<string>123456</string>
+			<key>Password</key>
+			<string>6mr5xv2a</string>
 			<key>PayloadDescription</key>
 			<string>配置 Wi-Fi 设置</string>
 			<key>PayloadDisplayName</key>
